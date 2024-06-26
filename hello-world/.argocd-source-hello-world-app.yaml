@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - image-registry.openshift-image-registry.svc:5000/hackthon/autodevops@sha256:20eb2de1e2e89d6108d9ec4a35525c6898ed4865bdb11504460af1acea102c73
+  - quay.io/rh-ee-anataraj/hello-world@sha256:20eb2de1e2e89d6108d9ec4a35525c6898ed4865bdb11504460af1acea102c73

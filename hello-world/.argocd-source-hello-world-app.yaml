@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - quay.io/rh-ee-anataraj/hello-world@sha256:a3fe18d40b4933a0c37ea08aadba857ed5b8a55aa9eebd81b69da1f9b1e4635c
+  - quay.io/rh-ee-anataraj/hello-world@sha256:e92fd6ba529754f962b0a6d1e368d5ff0907827bbae3f9b5a8b7f76375e0751b
